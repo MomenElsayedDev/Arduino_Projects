@@ -1,5 +1,7 @@
 # Arduino LED & Melody Projects 💡🎵
 
+![Alt Text](arduino.jpg)
+
 This repository contains two simple and interactive Arduino projects demonstrating LED control, arrays, button input, and buzzer sound.
 
 ---
